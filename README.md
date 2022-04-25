@@ -24,4 +24,4 @@ Below are the steps that are covered in the code section of the project:
 5. Converting the image to a numpy array to process the images.
 6. A Sequential ConV2D model has been used for classification.
 7. The trained model is then used to make predicitions on GTSRB_Final_Test_Images.
-8. Predicitons are then eveluated and visualised with the actual labels (Category Names)
+8. Predicitons are then evaluated and visualised with the actual labels (Category Names)
