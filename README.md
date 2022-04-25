@@ -6,8 +6,6 @@ The German Traffic Sign Recognition Benchmark
 -- In the Training dataset, there are a total of 43 categories (classes) and 39,209 .ppm images
 -- The Test set consists of 12,630 .ppm images.
 -- All of the code i.e. Exploratory Analysis, Data Pre-Processing and Model Implementation have been executed in one single .ipynb file.
--- The .zip file contains one ML_CW2 folder and one .ipynb file.
--- The ML_CW2 folder contains five files in total -- Training Set, Testing Set, PictureOutput, Tmp file and a Test .csv file
 
 **********************************************
 Accessing The Dataset
